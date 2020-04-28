@@ -2,7 +2,8 @@ minimum_cumulusci_version: '3.11.0'
 project:
     name: Food-Bank
     package:
-        name:  n
+        name:  Food-Bank
+        namespace: oiadjf20987234a
         api_version: '48.0'
     source_format: sfdx
 
