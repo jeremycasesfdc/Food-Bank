@@ -4,6 +4,7 @@ project:
     package:
         name:  n
         api_version: '48.0'
+        namespace: oiadjf20987234a
     source_format: sfdx
 
 tasks:
